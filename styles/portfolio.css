@@ -119,3 +119,6 @@ p {
     text-align: center;
   }
 }
+#personal-photo {
+  border-radius: 10px;
+}
