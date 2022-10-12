@@ -203,3 +203,6 @@ footer .social-links a:hover {
     text-align: center;
   }
 }
+#personal-photo {
+  border-radius: 10px;
+}
